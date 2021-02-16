@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRWGKUUm+ImfUSE6N6fqq4KnSWhYuYzRHaVw4bjUWNCghlXBypX87VLQSw2g4Zk2NbQctYaXxBjgKBDfMqD47A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeynep\\Desktop\\Yeni klasör (4)\\ReCapProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeynep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zeynep\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
