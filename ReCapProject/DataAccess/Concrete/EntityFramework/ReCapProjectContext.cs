@@ -4,13 +4,14 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace DataAccess.Concrete.EntityFramework
 {
    public  class ReCapProjectContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=desktop-pe1d24d\mssqlserver01, Database = ReCapProject;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Server=desktop-pe1d24d\mssqlserver01; Database = ReCapProject;Trusted_Connection=true");
 
 
         }
